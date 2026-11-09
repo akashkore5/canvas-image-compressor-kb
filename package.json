@@ -1,0 +1,26 @@
+{
+  "name": "@akashkore5/canvas-image-compressor-kb",
+  "version": "1.0.0",
+  "description": "Zero-dependency client-side image compression to exact target KB limits in JavaScript/TypeScript by EditPDFKit.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "image-compression",
+    "compress-to-kb",
+    "canvas",
+    "browser",
+    "editpdfkit",
+    "jpeg-compressor"
+  ],
+  "author": "Akash Kore <akashkore26@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://www.editpdfkit.com/tools/compress-image-50kb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashkore5/editpdfkit"
+  },
+  "bugs": {
+    "url": "https://www.editpdfkit.com/about"
+  }
+}
+
